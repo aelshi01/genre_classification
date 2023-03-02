@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/2ae5c08d43284ac1a917070602f836fc/artifacts
+end_time: 1677741693281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ae5c08d43284ac1a917070602f836fc
+run_name: unleashed-carp-480
+run_uuid: 2ae5c08d43284ac1a917070602f836fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677741644571
+status: 4
+tags: []
+user_id: adamelshimi

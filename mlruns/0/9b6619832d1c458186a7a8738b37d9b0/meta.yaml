@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/9b6619832d1c458186a7a8738b37d9b0/artifacts
+end_time: 1677737119352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b6619832d1c458186a7a8738b37d9b0
+run_name: luminous-ox-95
+run_uuid: 9b6619832d1c458186a7a8738b37d9b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677737113539
+status: 4
+tags: []
+user_id: adamelshimi

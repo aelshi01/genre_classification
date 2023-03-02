@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/e52200a78ac242f9aed20f209c727d87/artifacts
+end_time: 1677737574173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e52200a78ac242f9aed20f209c727d87
+run_name: rumbling-hare-621
+run_uuid: e52200a78ac242f9aed20f209c727d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677737569238
+status: 4
+tags: []
+user_id: adamelshimi

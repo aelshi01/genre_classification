@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/3ebe7b1afcc14d35900a7c1431568339/artifacts
+end_time: 1677737361977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ebe7b1afcc14d35900a7c1431568339
+run_name: worried-yak-620
+run_uuid: 3ebe7b1afcc14d35900a7c1431568339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677737358904
+status: 4
+tags: []
+user_id: adamelshimi

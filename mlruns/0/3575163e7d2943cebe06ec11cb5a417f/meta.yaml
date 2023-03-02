@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/3575163e7d2943cebe06ec11cb5a417f/artifacts
+end_time: 1677737067101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3575163e7d2943cebe06ec11cb5a417f
+run_name: skittish-rook-290
+run_uuid: 3575163e7d2943cebe06ec11cb5a417f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677737060673
+status: 4
+tags: []
+user_id: adamelshimi

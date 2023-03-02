@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/137f4cfeea3343cfaad5fc13dda89e19/artifacts
+end_time: 1677742068127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 137f4cfeea3343cfaad5fc13dda89e19
+run_name: mercurial-bird-11
+run_uuid: 137f4cfeea3343cfaad5fc13dda89e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677742015625
+status: 4
+tags: []
+user_id: adamelshimi

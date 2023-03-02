@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/61a2dde79fd04484812f4cd6a5a2ab5e/artifacts
+end_time: 1677737409827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61a2dde79fd04484812f4cd6a5a2ab5e
+run_name: charming-fawn-565
+run_uuid: 61a2dde79fd04484812f4cd6a5a2ab5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677737404881
+status: 4
+tags: []
+user_id: adamelshimi

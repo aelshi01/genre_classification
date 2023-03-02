@@ -1,0 +1,35 @@
+{
+    "os": "macOS-13.2.1-x86_64-i386-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-02T07:31:23.249132",
+    "startedAt": "2023-03-02T07:31:22.517209",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/adamelshimi/Desktop/Desktop - Adam\u2019s MacBook Air/Udacity/MLDevOps/End-to-end pipepline/genre_classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/aelshi01/genre_classification.git",
+        "commit": "b5f61b49ededabd5f28e165fbd48bb26787c41bc"
+    },
+    "email": null,
+    "root": "/Users/adamelshimi/Desktop/Desktop - Adam\u2019s MacBook Air/Udacity/MLDevOps/End-to-end pipepline/genre_classification",
+    "host": "Adams-Air",
+    "username": "adamelshimi",
+    "executable": "/Users/adamelshimi/opt/anaconda3/envs/mlflow-b536c99cab3f07bfeb0a1ad9e153575c07cd087e/bin/python"
+}

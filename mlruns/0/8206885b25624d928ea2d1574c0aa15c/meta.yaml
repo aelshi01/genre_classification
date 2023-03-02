@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adamelshimi/Desktop/Desktop%20-%20Adam%E2%80%99s%20MacBook%20Air/Udacity/MLDevOps/End-to-end%20pipepline/genre_classification/mlruns/0/8206885b25624d928ea2d1574c0aa15c/artifacts
+end_time: 1677742279528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8206885b25624d928ea2d1574c0aa15c
+run_uuid: 8206885b25624d928ea2d1574c0aa15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677742270379
+status: 3
+tags: []
+user_id: adamelshimi
